@@ -53,3 +53,16 @@ button {
   background: #888888;
   padding: 8px;
 }
+
+#message-1 {
+  margin: 10px 0px 10px 0px;
+}
+#message-2 {
+  margin: 10px 0px 10px 0px;
+}
+
+a {
+  color: #888888;
+  margin-right: 16px;
+  text-decoration: none;
+}
